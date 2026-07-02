@@ -71,18 +71,20 @@ Siga os passos abaixo para rodar a aplicação localmente na sua máquina:
 
 Clonar o repositório:
 
-git clone <link-do-repositorio>
+git clone link-do-repositorio
 
 Entrar na pasta do projeto via terminal:
 
 
-cd <GERENCIDORDEUSINAS>
-cd <codigo-fonte>
-cd <frontend>
+cd GERENCIDORDEUSINAS
+cd codigo-fonte
+cd frontend
 
 Instalar as dependências:
 
 npm install
+
+npm install react-hot-toast
 
 Iniciar o servidor de desenvolvimento:
 
